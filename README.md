@@ -1,4 +1,4 @@
-# lzig (Coding in Ziglang)
+# L-zig (Coding in Ziglang) [0.15.2]-[0.0.1]
 ---
 ## Intensions
 * To develop something of a guide to coding in Ziglang.
@@ -12,15 +12,6 @@
 * To establish a do and don't(s) style guide.
 * To make a beginner-friendly guide.
 * To serve as a refresher for people who have been out of the loop for a while.
-
----
-
-## Version : [0.0.0]: 18/jan/2026
-* Added main README.md
-* Added CODE_OF_CONDUCT.md
-* Added CHANGELOG.md
-* Added GOALS.md
-* Added PROGRESS.md
 
 ---
 
