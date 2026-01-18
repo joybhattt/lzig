@@ -25,5 +25,4 @@
 > [!NOTE]
 >* [**CODE_OF_CONDUCT.md**](./CODE_OF_CONDUCT.md) : how the repo is supposed to operate (discussions and pull requests).
 >* [**CHANGELOG.md**](./CHANGELOG.md) : patch notes of a version.
->* [**GOALS.md**](./GOALS.md) : goals to accommodate in the non-main branch to update main to the next version.
->* [**PROGRESS.md**](./PROGRESS.md) : the only file that will be changed on the main branch regularly to track the progress on GOALS.md.
+>* [**PROGRESS.md**](./PROGRESS.md) : the only file that will be changed on the main branch regularly to track the progress on the dev branch.
