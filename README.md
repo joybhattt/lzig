@@ -1,4 +1,4 @@
-# L-zig (Coding in Ziglang) [0.15.2]-[0.1]
+# L-zig (Coding in Ziglang) [0.15.2]-[0.0.1]
 ---
 ## Intensions
 * To develop something of a guide to coding in Ziglang.
