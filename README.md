@@ -15,15 +15,6 @@
 
 ---
 
-## Version : [0.0.0]: 18/jan/2026
-* Added main README.md
-* Added CODE_OF_CONDUCT.md
-* Added CHANGELOG.md
-* Added GOALS.md
-* Added PROGRESS.md
-
----
-
 > [!CAUTION]
 > Anything and everything in this repo is bound to evolve and change. 
 > This is not a Universal Guide; standards and conventions change organization by organization, and personal coding etiquette and preferences.
