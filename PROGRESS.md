@@ -23,4 +23,3 @@ This page outlines the specific technical standards and topics that must be docu
 - [ ] Safe casting with `@intCast` and `@floatCast`.
 - [ ] Coercion (Peer Type Resolution).
 - [ ] Explicitly handling truncation and overflow during casts.
-
