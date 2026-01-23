@@ -1,8 +1,5 @@
 # Code of Conduct & Collaboration Guide
 
-## 🛠 How This Repo Evolves
-This is a **Personal but Not Private (PNP)** project. To maintain a balance between a personal memoir and a high-quality community resource, the following workflow is used:
-
 ## ✍️ Attribution & Transparency
 I believe in technical honesty and giving credit where it's due. When a suggestion or critique leads to a change in the code or documentation:
 * **Citations:** I will quote the reason for the change in the source code comments.
