@@ -14,6 +14,7 @@ This document explains the custom markers used throughout this learning resource
 | **OPTIMIZE:** | Optimize | Guidance on performance, memory layout, or `comptime` efficiency. |
 | **DONOT:** | Disclaimer | Critical warnings about anti-patterns or dangerous logic. |
 | **SUMMARY:** | Summary | A condensed recap of the current section's key points. |
+| **WARNING:** | Important | Warning or Disclaimer related to an adjacent topic. |
 
 ---
 

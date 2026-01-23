@@ -1,0 +1,17 @@
+{
+    "general purpose allocator" : {
+        "scope": "zig",
+        "prefix": "> gpa",
+        "body": [
+            "var gpa = std.heap.GeneralPurposeAllocator(.{$1}){};",
+            "defer _ = gpa.deinit();",
+            "const allocator = gpa.allocator();$2",
+        ]
+    },
+
+    "100 char ruler" : {
+        "scope": "zig",
+        "prefix": "> ruler",
+        "body" : "// -------------------------------------------------------------------------------------------------"
+    }   
+}
